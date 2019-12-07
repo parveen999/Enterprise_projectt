@@ -1,0 +1,57 @@
+[
+    
+    {
+        "_id": "VM01",
+        "Name": "Dal Makhni",
+        "Price": 5.99,
+        "Desc": "Dal Makhni is a delicious,rich lentil dish with creamy flavour."
+    },
+    {
+        "_id": "VM02",
+        "Name": "Malai kofta",
+        "Price": 7.99,
+        "Desc": "Malai kofta is made of fried dumpling balls with cream,usually they are made of mashed potatoes."
+    },
+    {
+        "_id": "VM03",
+        "Name": "Samosa",
+        "Price": 3.99,
+        "Desc": "A samosa is a fried pastry with savoury filling of potatoes,onions and peas.It is served with one or two different dippings."
+    },
+    {
+        "_id": "VM04",
+        "Name": "Dosa",
+        "Price": 4.99,
+        "Desc": "A dosa is a cooked flat thin layered rice batter with black gram."
+    },
+    {
+        "_id": "VM05",
+        "Name": "Matar Paneer",
+        "Price": 5.99,
+        "Desc": "Matar paneer is a vegetarian North Indian dish consist of paneer and peas in a tomato based sauce."
+    },
+    {
+        "_id": "VM06",
+        "Name": "Veg Biryani",
+        "Price": 6.99,
+        "Desc": "This is a mixed rice dish with its origins as indian continental."
+    },
+    {
+        "_id": "VM07",
+        "Name": "Chole Bhature",
+        "Price": 5.49,
+        "Desc": "Chole bhature is an exquisite meal that is usually found in north indian roadside eateries."
+    },
+    {
+        "_id": "VM08",
+        "Name": "Idli sambar",
+        "Price": 6.99,
+        "Desc": "Idli is a type of savoury rice cake which are made by steaming a batter."
+    },
+    {
+        "_id": "VM09",
+        "Name": "Sarson ka saag",
+        "Price": 8.99,
+        "Desc": "Sarson ka saag is a popular dish from the Punjab region of South Asia.It is made from mustard greens and spices."
+    }
+]
