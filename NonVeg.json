@@ -1,0 +1,57 @@
+[
+
+    {
+        "_id": "NVM01",
+        "Name": "Butter Chicken",
+        "Price": 6.99,
+        "Desc": "Butter chicken is prepared in a butter gravy with the addition of cream gives the curry sauce a silky smooth rich texture."
+    },
+    {
+        "_id": "NVM02",
+        "Name": "Tandoori Chicken",
+        "Price": 9.99,
+        "Desc": "This chicken dish is prepared by roasting chicken marinated in yoghurt and spices in a tandoor."
+    },
+    {
+        "_id": "NVM03",
+        "Name": "Fish curry",
+        "Price": 12.95,
+        "Desc": "Spicy baked white fish fillets are dressed up with a ginger garlic puree in this bengali recipe."
+    },
+    {
+        "_id": "NVM04",
+        "Name": "Chicken cutlet",
+        "Price": 7.49,
+        "Desc": "Delicious and crispy chicken patties that makes a great appetizer."
+    },
+    {
+        "_id": "NVM05",
+        "Name": "Chicken 65",
+        "Price": 8.99,
+        "Desc": "Chicken 65 is a spicy,deep fried chicken dish.The flavour of the dish can be attributed to red chillies."
+    },
+    {
+        "_id": "NVM06",
+        "Name": "Keema samosa",
+        "Price": 8.99,
+        "Desc": "This snack recipe is made using mutton keema and maida."
+    },
+    {
+        "_id": "NVM07",
+        "Name": "Mutton Korma",
+        "Price": 9.95,
+        "Desc": "Mutton Korma is one of the best recipes to try.It is also known as lamb."
+    },
+    {
+        "_id": "NVM08",
+        "Name": "Chicken Biryani",
+        "Price": 7.99,
+        "Desc": "This recipe is madein pressure cooker or pot.Chicken Biryani is one of the most amazing royal delicacies."
+    },
+    {
+        "_id": "NVM09",
+        "Name": "Prawn curry",
+        "Price": 10.49,
+        "Desc": "Prawn curry is a simple delicious and flavorful dish made o ffresh prawns and spice powders."
+    }
+]
