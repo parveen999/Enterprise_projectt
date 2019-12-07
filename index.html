@@ -1,0 +1,84 @@
+<html>
+<head>
+        <title>FOOD HUB</title>
+       
+<style>
+body {
+background-color:light gray;}
+h3{
+                            font-family: Calibri;
+               font-size: 25pt;        
+                            font-style: normal;
+                            font-weight: bold;
+                            color:SlateBlue;
+                            text-align: center;}
+
+table{font-family: Calibri;
+                            color:white;
+                            font-size: 11pt;
+                            font-style: normal;
+                            font-weight: bold;
+                            background-color: blue;
+                            border-collapse: collapse;
+                            border: 0px }
+
+
+</style>    
+</head>
+<body>
+<h3>FOOD HUB MENU</h3>
+                 <form  action="/menu_data" method="POST">
+                    <table  cellpadding = "10" >
+                        <tr>
+                            <td><label>ID</label></td> <td><input type="text"  name="menu_id" /></td>
+                        </tr>                      
+                        <tr>
+                            <td><label>NAME</label></td> <td><input type="text" name="menu_name" /></td>
+                        </tr>                      
+                        <tr>
+                            <td><label>PRICE</label></td> <td><input type="text" name="menu_price" /></td>
+                        </tr>                        
+                        <tr>
+                            <td><label>DESCRIPTION</label></td> <td><input type="text" name="menu_desc"/></td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" align="center"> <button>SUBMIT</button>
+                            </td>
+                        </tr>
+                    </table>
+            </form>  
+            <form  action="/menu" method="GET">
+                <button>GET DATA</button>
+            </form>
+
+<form  action="/update_data" method="POST">
+<input type="hidden" name="_method" value="PUT">
+<table  cellpadding = "10" >
+<tr>
+                            <td><label>ID</label></td> <td><input type="text"  name="menu_id" /></td>
+                        </tr>                      
+                        <tr>
+                            <td><label>NAME</label></td> <td><input type="text" name="menu_name" /></td>
+                        </tr>                      
+                        <tr>
+                            <td><label>PRICE</label></td> <td><input type="text" name="menu_price" /></td>
+                        </tr>                        
+                        <tr>
+                            <td><label>DESCRIPTION</label></td> <td><input type="text" name="menu_desc"/></td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" align="center"><button>UPDATE</button></td>
+                        </tr>
+                 </table>
+            </form>  
+
+            <form  action="/delete_data" method="POST">
+<input type="hidden" name="_method" value="DELETE">
+<div>
+                <input type="text"  placeholder="enter id" name="menu_id" />
+<button>del</button>
+</div>
+            </form>    
+</body>
+</html>
+
